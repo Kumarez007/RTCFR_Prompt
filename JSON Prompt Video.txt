@@ -1,0 +1,37 @@
+{
+  "prompt": "A cinematic 10-second fictional war scenario set in a Middle Eastern region inspired by real-world events. First 5 seconds: dramatic night sky filled with missile trails launching across the horizon, air defense systems intercepting some missiles, explosions lighting up the skyline in the distance. Show tense atmosphere with silhouettes of cities, radar systems, and military activity. No specific country names or flags shown. Next 5 seconds: transition to a wide aerial view of a strategic sea passage resembling the Strait of Hormuz, with hundreds of cargo ships and oil tankers stranded closely together, creating a tense maritime traffic jam. Suddenly, a few ships with Indian flags begin moving forward smoothly through the water while others remain stationary. Onboard, crew members celebrate with joy, waving flags and cheering. The mood shifts from tension to relief and hope.",
+  "style": "cinematic, ultra-realistic, dramatic, 4K, high detail",
+  "camera": {
+    "shots": [
+      "wide aerial missile launch scene",
+      "slow motion missile trails across sky",
+      "explosions lighting horizon",
+      "transition to aerial sea congestion shot",
+      "tracking shot of moving ships",
+      "close-up of celebrating crew on ship"
+    ],
+    "movement": "smooth drone, slow cinematic pans, slight handheld realism during war scene",
+    "lens": "wide-angle for scale, telephoto for compression of ships"
+  },
+  "lighting": {
+    "war_scene": "dark night with bright missile trails and explosions",
+    "sea_scene": "early morning soft light with slight haze"
+  },
+  "environment": {
+    "elements": [
+      "missiles and air defense systems",
+      "distant city skyline silhouettes",
+      "crowded sea with oil tankers and cargo ships",
+      "Indian-flagged ships moving",
+      "crew celebrating on deck",
+      "calm sea with tension in atmosphere"
+    ]
+  },
+  "duration": "10s",
+  "fps": 30,
+  "resolution": "4K",
+  "audio": {
+    "type": "cinematic",
+    "details": "distant explosions, missile launch sounds, radar beeps, transition to ocean waves, ship horns, and people cheering"
+  }
+}
